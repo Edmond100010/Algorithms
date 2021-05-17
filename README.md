@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms Beginner
+Algorithms and Python Beginner
