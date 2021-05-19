@@ -1,4 +1,4 @@
-# Beginner, I’m an EE major at City University of Hong Kong
+# EE major at City University of Hong Kong
 -Arduino
 -Python
 -Java
