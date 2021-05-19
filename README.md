@@ -1,2 +1,5 @@
-# Algorithms
-Algorithms and Python Beginner
+# Beginner, I’m an EE major at City University of Hong Kong
+-Arduino
+-Python
+-Java
+-Assembly(PIC18)
