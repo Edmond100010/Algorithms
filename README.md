@@ -1,5 +1,13 @@
 #Programming
 
--Insertion sort, Selection sort, Wild-Guess, mergesort, bsearch, quicksort, Divide-and-conquer, Countingsort
+Python:
+-Insertion sort, Selection sort, Wild-Guess, Mergesort, Bsearch, Quicksort, Divide-and-conquer, Countingsort
 
--Tree, rod_cutting
+-Tree, Rod_cutting,Hash(External Hashing),DP(lcs),Morsecode(list),DP(rod_cutting),Recursive fatorial,Recursive(Max,Min)
+
+
+--------------------------------------------------------------------------------------------------------------------
+Java:
+-QuickSort
+
+
