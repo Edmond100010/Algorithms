@@ -12,6 +12,7 @@ Python:
 Java:
 
 -QuickSort
+
 -Sortclass: Insertion sort, Selection sort, Wild-Guess, Mergesort,
 
 --------------------------------------------------------------------------------------------------------------------
