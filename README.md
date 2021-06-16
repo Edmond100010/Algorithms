@@ -28,5 +28,16 @@ Arduino:
 
 ---------------------------------------------------------------------------------------------------------------------
 C++ (to be continued)
+---------------------------------------------------------------------------------------------------------------------
+Raspberry pi 4 (Training):
+
+-Thonny Python IDE
+
+-Camera Module (Object detection)
+
+-Sense HAT
+
+-Temperature Recorder (Website Page)
+
 
 
