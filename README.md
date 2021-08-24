@@ -40,5 +40,9 @@ Raspberry pi 4 (Training):
 
 -Temperature Recorder (Website Page)
 
+---------------------------------------------------------------------------------------------------------------------
+Intern:
+Vision-based gender and age classification
+
 
 
