@@ -8,6 +8,7 @@ def max(arr):
         return max_l
     else: 
         return max_r
+#test
 
 def min(arr):
     if(len(arr)<2):
